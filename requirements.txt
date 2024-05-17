@@ -245,8 +245,6 @@ notebook @ file:///C:/b/abs_65xjlnf9q4/croot/notebook_1708029957105/work
 notebook_shim @ file:///C:/b/abs_a5xysln3lb/croot/notebook-shim_1699455926920/work
 numba @ file:///C:/b/abs_3e3co1qfvo/croot/numba_1707085143481/work
 numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
-numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp311-cp311-win_amd64.whl#sha256=5dfd3e04dc1c2826d3f404fdc7f93c097901f5da9b91f4f394f79d4e038ed81d
-numpydoc @ file:///C:/ci_311/numpydoc_1676453412027/work
 olefile==0.47
 omegaconf==2.3.0
 onnx==1.16.0
@@ -257,7 +255,6 @@ ordered-set==4.1.0
 orjson==3.10.3
 overrides @ file:///C:/b/abs_cfh89c8yf4/croot/overrides_1699371165349/work
 packaging==23.2
-pandas @ file:///C:/b/abs_fej9bi0gew/croot/pandas_1702318041921/work/dist/pandas-2.1.4-cp311-cp311-win_amd64.whl#sha256=d3609b7cc3e3c4d99ad640a4b8e710ba93ccf967ab8e5245b91033e0200f9286
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 panel @ file:///C:/b/abs_abnm_ot327/croot/panel_1706539613212/work
 param @ file:///C:/b/abs_39ncjvb7lu/croot/param_1705937833389/work
@@ -409,7 +406,6 @@ sqlparse==0.5.0
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 starlette==0.37.2
 statsmodels @ file:///C:/b/abs_7bth810rna/croot/statsmodels_1689937298619/work
-streamlit==1.34.0
 sympy @ file:///C:/b/abs_82njkonm7f/croot/sympy_1701397685028/work
 tables @ file:///C:/b/abs_411740ajo7/croot/pytables_1705614883108/work
 tabulate @ file:///C:/b/abs_21rf8iibnh/croot/tabulate_1701354830521/work
@@ -481,3 +477,6 @@ zict @ file:///C:/b/abs_780gyydtbp/croot/zict_1695832899404/work
 zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
 zope.interface @ file:///C:/ci_311/zope.interface_1676439868776/work
 zstandard==0.19.0
+streamlit==1.10.0
+pandas==1.4.2
+numpy==1.22.4
